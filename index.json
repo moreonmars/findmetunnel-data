@@ -1,0 +1,2519 @@
+{
+ "app_version": "2.0",
+ "regions": 126,
+ "places": 18019,
+ "items": [
+  {
+   "id": "ad",
+   "country": "AD",
+   "name": {
+    "en": "Andorra",
+    "uk": "Андорра",
+    "de": "Andorra"
+   },
+   "file": "regions/ad.json",
+   "places": 8,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 1,
+    "roadTunnel": 6
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "al",
+   "country": "AL",
+   "name": {
+    "en": "Albania",
+    "uk": "Албанія",
+    "de": "Albanien"
+   },
+   "file": "regions/al.json",
+   "places": 22,
+   "kinds": {
+    "carBridge": 2,
+    "footBridge": 3,
+    "railBridge": 1,
+    "railTunnel": 6,
+    "roadTunnel": 10
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "at",
+   "country": "AT",
+   "name": {
+    "en": "Austria",
+    "uk": "Австрія",
+    "de": "Österreich"
+   },
+   "file": "regions/at.json",
+   "places": 707,
+   "kinds": {
+    "bikeTunnel": 5,
+    "carBridge": 134,
+    "footBridge": 96,
+    "metroLine": 4,
+    "railBridge": 21,
+    "railTunnel": 164,
+    "roadTunnel": 283
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "ba",
+   "country": "BA",
+   "name": {
+    "en": "Bosnia and Herzegovina",
+    "uk": "Боснія і Герцеговина",
+    "de": "Bosnien und Herzegowina"
+   },
+   "file": "regions/ba.json",
+   "places": 127,
+   "kinds": {
+    "carBridge": 29,
+    "footBridge": 4,
+    "railBridge": 1,
+    "railTunnel": 24,
+    "roadTunnel": 69
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "be",
+   "country": "BE",
+   "name": {
+    "en": "Belgium",
+    "uk": "Бельгія",
+    "de": "Belgien"
+   },
+   "file": "regions/be.json",
+   "places": 298,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 100,
+    "footBridge": 76,
+    "metroLine": 4,
+    "railBridge": 18,
+    "railTunnel": 61,
+    "roadTunnel": 37
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "bg",
+   "country": "BG",
+   "name": {
+    "en": "Bulgaria",
+    "uk": "Болгарія",
+    "de": "Bulgarien"
+   },
+   "file": "regions/bg.json",
+   "places": 61,
+   "kinds": {
+    "carBridge": 7,
+    "footBridge": 11,
+    "metroLine": 4,
+    "railTunnel": 18,
+    "roadTunnel": 21
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "ch",
+   "country": "CH",
+   "name": {
+    "en": "Switzerland",
+    "uk": "Швейцарія",
+    "de": "Schweiz"
+   },
+   "file": "regions/ch.json",
+   "places": 856,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 118,
+    "footBridge": 102,
+    "metroLine": 1,
+    "railBridge": 32,
+    "railTunnel": 262,
+    "roadTunnel": 339
+   },
+   "osm": "2026-10-01",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "cy",
+   "country": "CY",
+   "name": {
+    "en": "Cyprus",
+    "uk": "Кіпр",
+    "de": "Zypern"
+   },
+   "file": "regions/cy.json",
+   "places": 6,
+   "kinds": {
+    "footBridge": 5,
+    "roadTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "cz",
+   "country": "CZ",
+   "name": {
+    "en": "Czechia",
+    "uk": "Чехія",
+    "de": "Tschechien"
+   },
+   "file": "regions/cz.json",
+   "places": 216,
+   "kinds": {
+    "carBridge": 65,
+    "footBridge": 52,
+    "metroLine": 3,
+    "railBridge": 26,
+    "railTunnel": 49,
+    "roadTunnel": 21
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "de-bb",
+   "country": "DE",
+   "name": {
+    "en": "Brandenburg",
+    "uk": "Бранденбург",
+    "de": "Brandenburg"
+   },
+   "file": "regions/de-bb.json",
+   "places": 23,
+   "kinds": {
+    "carBridge": 8,
+    "footBridge": 11,
+    "railBridge": 3,
+    "railTunnel": 1
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-be",
+   "country": "DE",
+   "name": {
+    "en": "Berlin",
+    "uk": "Берлін",
+    "de": "Berlin"
+   },
+   "file": "regions/de-be.json",
+   "places": 79,
+   "kinds": {
+    "carBridge": 26,
+    "footBridge": 26,
+    "metroLine": 9,
+    "railBridge": 1,
+    "railTunnel": 3,
+    "roadTunnel": 14
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-bw",
+   "country": "DE",
+   "name": {
+    "en": "Baden-Württemberg",
+    "uk": "Баден-Вюртемберг",
+    "de": "Baden-Württemberg"
+   },
+   "file": "regions/de-bw.json",
+   "places": 438,
+   "kinds": {
+    "carBridge": 114,
+    "footBridge": 74,
+    "railBridge": 19,
+    "railTunnel": 133,
+    "roadTunnel": 98
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-by",
+   "country": "DE",
+   "name": {
+    "en": "Bavaria",
+    "uk": "Баварія",
+    "de": "Bayern"
+   },
+   "file": "regions/de-by.json",
+   "places": 417,
+   "kinds": {
+    "carBridge": 176,
+    "footBridge": 82,
+    "metroLine": 10,
+    "railBridge": 41,
+    "railTunnel": 53,
+    "roadTunnel": 55
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-hb",
+   "country": "DE",
+   "name": {
+    "en": "Bremen",
+    "uk": "Бремен",
+    "de": "Bremen"
+   },
+   "file": "regions/de-hb.json",
+   "places": 16,
+   "kinds": {
+    "carBridge": 7,
+    "footBridge": 5,
+    "railBridge": 1,
+    "roadTunnel": 3
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-he",
+   "country": "DE",
+   "name": {
+    "en": "Hesse",
+    "uk": "Гессен",
+    "de": "Hessen"
+   },
+   "file": "regions/de-he.json",
+   "places": 245,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 66,
+    "footBridge": 31,
+    "railBridge": 39,
+    "railTunnel": 83,
+    "roadTunnel": 24
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-hh",
+   "country": "DE",
+   "name": {
+    "en": "Hamburg",
+    "uk": "Гамбург",
+    "de": "Hamburg"
+   },
+   "file": "regions/de-hh.json",
+   "places": 49,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 12,
+    "footBridge": 16,
+    "metroLine": 4,
+    "railBridge": 5,
+    "railTunnel": 4,
+    "roadTunnel": 7
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-mv",
+   "country": "DE",
+   "name": {
+    "en": "Mecklenburg-Western Pomerania",
+    "uk": "Мекленбург — Передня Померанія",
+    "de": "Mecklenburg-Vorpommern"
+   },
+   "file": "regions/de-mv.json",
+   "places": 34,
+   "kinds": {
+    "carBridge": 18,
+    "footBridge": 14,
+    "railBridge": 1,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-ni",
+   "country": "DE",
+   "name": {
+    "en": "Lower Saxony",
+    "uk": "Нижня Саксонія",
+    "de": "Niedersachsen"
+   },
+   "file": "regions/de-ni.json",
+   "places": 97,
+   "kinds": {
+    "carBridge": 21,
+    "footBridge": 31,
+    "railBridge": 13,
+    "railTunnel": 23,
+    "roadTunnel": 9
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-nw",
+   "country": "DE",
+   "name": {
+    "de": "Nordrhein-Westfalen",
+    "en": "North Rhine-Westphalia",
+    "uk": "Північний Рейн-Вестфалія"
+   },
+   "file": "regions/de-nw.json",
+   "places": 365,
+   "kinds": {
+    "carBridge": 122,
+    "footBridge": 82,
+    "railBridge": 23,
+    "railTunnel": 87,
+    "roadTunnel": 51
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "de-rp",
+   "country": "DE",
+   "name": {
+    "en": "Rhineland-Palatinate",
+    "uk": "Рейнланд-Пфальц",
+    "de": "Rheinland-Pfalz"
+   },
+   "file": "regions/de-rp.json",
+   "places": 204,
+   "kinds": {
+    "carBridge": 79,
+    "footBridge": 11,
+    "railBridge": 21,
+    "railTunnel": 76,
+    "roadTunnel": 17
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-sh",
+   "country": "DE",
+   "name": {
+    "en": "Schleswig-Holstein",
+    "uk": "Шлезвіг-Гольштейн",
+    "de": "Schleswig-Holstein"
+   },
+   "file": "regions/de-sh.json",
+   "places": 41,
+   "kinds": {
+    "carBridge": 17,
+    "footBridge": 17,
+    "railBridge": 2,
+    "railTunnel": 1,
+    "roadTunnel": 4
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-sl",
+   "country": "DE",
+   "name": {
+    "en": "Saarland",
+    "uk": "Саар",
+    "de": "Saarland"
+   },
+   "file": "regions/de-sl.json",
+   "places": 47,
+   "kinds": {
+    "carBridge": 28,
+    "footBridge": 9,
+    "railBridge": 3,
+    "railTunnel": 6,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-sn",
+   "country": "DE",
+   "name": {
+    "en": "Saxony",
+    "uk": "Саксонія",
+    "de": "Sachsen"
+   },
+   "file": "regions/de-sn.json",
+   "places": 133,
+   "kinds": {
+    "carBridge": 56,
+    "footBridge": 21,
+    "railBridge": 37,
+    "railTunnel": 10,
+    "roadTunnel": 9
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-st",
+   "country": "DE",
+   "name": {
+    "en": "Saxony-Anhalt",
+    "uk": "Саксонія-Ангальт",
+    "de": "Sachsen-Anhalt"
+   },
+   "file": "regions/de-st.json",
+   "places": 71,
+   "kinds": {
+    "carBridge": 26,
+    "footBridge": 26,
+    "railBridge": 12,
+    "railTunnel": 6,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "de-th",
+   "country": "DE",
+   "name": {
+    "en": "Thuringia",
+    "uk": "Тюрингія",
+    "de": "Thüringen"
+   },
+   "file": "regions/de-th.json",
+   "places": 114,
+   "kinds": {
+    "carBridge": 48,
+    "footBridge": 9,
+    "railBridge": 19,
+    "railTunnel": 25,
+    "roadTunnel": 13
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "dk",
+   "country": "DK",
+   "name": {
+    "en": "Denmark",
+    "uk": "Данія",
+    "de": "Dänemark"
+   },
+   "file": "regions/dk.json",
+   "places": 87,
+   "kinds": {
+    "carBridge": 44,
+    "footBridge": 21,
+    "metroLine": 4,
+    "railBridge": 2,
+    "railTunnel": 10,
+    "roadTunnel": 6
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "ee",
+   "country": "EE",
+   "name": {
+    "en": "Estonia",
+    "uk": "Естонія",
+    "de": "Estland"
+   },
+   "file": "regions/ee.json",
+   "places": 12,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 7,
+    "footBridge": 4
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-an",
+   "country": "ES",
+   "name": {
+    "en": "Andalusia",
+    "uk": "Андалусія",
+    "de": "Andalusien"
+   },
+   "file": "regions/es-an.json",
+   "places": 199,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 65,
+    "footBridge": 31,
+    "metroLine": 1,
+    "railBridge": 3,
+    "railTunnel": 41,
+    "roadTunnel": 56
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ar",
+   "country": "ES",
+   "name": {
+    "en": "Aragon",
+    "uk": "Арагон",
+    "de": "Aragonien"
+   },
+   "file": "regions/es-ar.json",
+   "places": 89,
+   "kinds": {
+    "carBridge": 16,
+    "footBridge": 11,
+    "railBridge": 1,
+    "railTunnel": 23,
+    "roadTunnel": 38
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-as",
+   "country": "ES",
+   "name": {
+    "en": "Asturias",
+    "uk": "Астурія",
+    "de": "Asturien"
+   },
+   "file": "regions/es-as.json",
+   "places": 134,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 14,
+    "footBridge": 10,
+    "railTunnel": 75,
+    "roadTunnel": 34
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-cb",
+   "country": "ES",
+   "name": {
+    "en": "Cantabria",
+    "uk": "Кантабрія",
+    "de": "Kantabrien"
+   },
+   "file": "regions/es-cb.json",
+   "places": 67,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 21,
+    "footBridge": 6,
+    "railBridge": 2,
+    "railTunnel": 18,
+    "roadTunnel": 19
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-cl",
+   "country": "ES",
+   "name": {
+    "en": "Castile and León",
+    "uk": "Кастилія і Леон",
+    "de": "Kastilien und León"
+   },
+   "file": "regions/es-cl.json",
+   "places": 154,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 41,
+    "footBridge": 38,
+    "railBridge": 5,
+    "railTunnel": 45,
+    "roadTunnel": 24
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-cm",
+   "country": "ES",
+   "name": {
+    "en": "Castilla–La Mancha",
+    "uk": "Кастилія — Ла-Манча",
+    "de": "Kastilien-La Mancha"
+   },
+   "file": "regions/es-cm.json",
+   "places": 62,
+   "kinds": {
+    "carBridge": 14,
+    "footBridge": 12,
+    "railBridge": 10,
+    "railTunnel": 22,
+    "roadTunnel": 4
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-cn",
+   "country": "ES",
+   "name": {
+    "en": "Canary Islands",
+    "uk": "Канарські острови",
+    "de": "Kanarische Inseln"
+   },
+   "file": "regions/es-cn.json",
+   "places": 53,
+   "kinds": {
+    "carBridge": 4,
+    "footBridge": 5,
+    "roadTunnel": 44
+   },
+   "osm": "2026-11-04",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ct",
+   "country": "ES",
+   "name": {
+    "en": "Catalonia",
+    "uk": "Каталонія",
+    "de": "Katalonien"
+   },
+   "file": "regions/es-ct.json",
+   "places": 338,
+   "kinds": {
+    "carBridge": 56,
+    "footBridge": 54,
+    "metroLine": 14,
+    "railBridge": 6,
+    "railTunnel": 99,
+    "roadTunnel": 109
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ex",
+   "country": "ES",
+   "name": {
+    "en": "Extremadura",
+    "uk": "Естремадура",
+    "de": "Extremadura"
+   },
+   "file": "regions/es-ex.json",
+   "places": 22,
+   "kinds": {
+    "carBridge": 7,
+    "footBridge": 9,
+    "railTunnel": 5,
+    "roadTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ga",
+   "country": "ES",
+   "name": {
+    "en": "Galicia",
+    "uk": "Галісія",
+    "de": "Galicien"
+   },
+   "file": "regions/es-ga.json",
+   "places": 284,
+   "kinds": {
+    "carBridge": 85,
+    "footBridge": 27,
+    "railBridge": 32,
+    "railTunnel": 116,
+    "roadTunnel": 24
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ib",
+   "country": "ES",
+   "name": {
+    "en": "Balearic Islands",
+    "uk": "Балеарські острови",
+    "de": "Balearen"
+   },
+   "file": "regions/es-ib.json",
+   "places": 22,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 2,
+    "railTunnel": 5,
+    "roadTunnel": 14
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-mc",
+   "country": "ES",
+   "name": {
+    "en": "Murcia",
+    "uk": "Мурсія",
+    "de": "Murcia"
+   },
+   "file": "regions/es-mc.json",
+   "places": 11,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 1,
+    "railTunnel": 1,
+    "roadTunnel": 8
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-md",
+   "country": "ES",
+   "name": {
+    "en": "Madrid",
+    "uk": "Мадрид",
+    "de": "Madrid"
+   },
+   "file": "regions/es-md.json",
+   "places": 105,
+   "kinds": {
+    "carBridge": 9,
+    "footBridge": 24,
+    "metroLine": 13,
+    "railBridge": 3,
+    "railTunnel": 29,
+    "roadTunnel": 27
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-nc",
+   "country": "ES",
+   "name": {
+    "en": "Navarre",
+    "uk": "Наварра",
+    "de": "Navarra"
+   },
+   "file": "regions/es-nc.json",
+   "places": 34,
+   "kinds": {
+    "carBridge": 6,
+    "footBridge": 5,
+    "roadTunnel": 23
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-pv",
+   "country": "ES",
+   "name": {
+    "en": "Basque Country",
+    "uk": "Країна Басків",
+    "de": "Baskenland"
+   },
+   "file": "regions/es-pv.json",
+   "places": 136,
+   "kinds": {
+    "bikeTunnel": 5,
+    "carBridge": 12,
+    "footBridge": 20,
+    "metroLine": 3,
+    "railTunnel": 41,
+    "roadTunnel": 55
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-ri",
+   "country": "ES",
+   "name": {
+    "en": "La Rioja",
+    "uk": "Ла-Ріоха",
+    "de": "La Rioja"
+   },
+   "file": "regions/es-ri.json",
+   "places": 14,
+   "kinds": {
+    "carBridge": 2,
+    "footBridge": 8,
+    "railTunnel": 2,
+    "roadTunnel": 2
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "es-vc",
+   "country": "ES",
+   "name": {
+    "en": "Valencia",
+    "uk": "Валенсія",
+    "de": "Valencia"
+   },
+   "file": "regions/es-vc.json",
+   "places": 106,
+   "kinds": {
+    "carBridge": 27,
+    "footBridge": 17,
+    "metroLine": 6,
+    "railBridge": 3,
+    "railTunnel": 36,
+    "roadTunnel": 17
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "fi",
+   "country": "FI",
+   "name": {
+    "en": "Finland",
+    "uk": "Фінляндія",
+    "de": "Finnland"
+   },
+   "file": "regions/fi.json",
+   "places": 186,
+   "kinds": {
+    "bikeTunnel": 3,
+    "carBridge": 64,
+    "footBridge": 59,
+    "metroLine": 2,
+    "railBridge": 10,
+    "railTunnel": 30,
+    "roadTunnel": 18
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "fo",
+   "country": "FO",
+   "name": {
+    "en": "Faroe Islands",
+    "uk": "Фарерські острови",
+    "de": "Färöer"
+   },
+   "file": "regions/fo.json",
+   "places": 24,
+   "kinds": {
+    "carBridge": 1,
+    "roadTunnel": 23
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "fr-ara",
+   "country": "FR",
+   "name": {
+    "en": "Auvergne-Rhône-Alpes",
+    "uk": "Овернь — Рона — Альпи",
+    "de": "Auvergne-Rhône-Alpes"
+   },
+   "file": "regions/fr-ara.json",
+   "places": 439,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 119,
+    "footBridge": 82,
+    "metroLine": 3,
+    "railBridge": 24,
+    "railTunnel": 142,
+    "roadTunnel": 67
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-bfc",
+   "country": "FR",
+   "name": {
+    "en": "Bourgogne-Franche-Comté",
+    "uk": "Бургундія — Франш-Конте",
+    "de": "Bourgogne-Franche-Comté"
+   },
+   "file": "regions/fr-bfc.json",
+   "places": 101,
+   "kinds": {
+    "carBridge": 21,
+    "footBridge": 18,
+    "railBridge": 10,
+    "railTunnel": 48,
+    "roadTunnel": 4
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-bre",
+   "country": "FR",
+   "name": {
+    "en": "Brittany",
+    "uk": "Бретань",
+    "de": "Bretagne"
+   },
+   "file": "regions/fr-bre.json",
+   "places": 63,
+   "kinds": {
+    "carBridge": 27,
+    "footBridge": 23,
+    "metroLine": 2,
+    "railBridge": 6,
+    "railTunnel": 4,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-cor",
+   "country": "FR",
+   "name": {
+    "en": "Corsica",
+    "uk": "Корсика",
+    "de": "Korsika"
+   },
+   "file": "regions/fr-cor.json",
+   "places": 9,
+   "kinds": {
+    "carBridge": 2,
+    "railTunnel": 3,
+    "roadTunnel": 4
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-cvl",
+   "country": "FR",
+   "name": {
+    "en": "Centre-Val de Loire",
+    "uk": "Центр — Долина Луари",
+    "de": "Centre-Val de Loire"
+   },
+   "file": "regions/fr-cvl.json",
+   "places": 71,
+   "kinds": {
+    "carBridge": 27,
+    "footBridge": 21,
+    "railBridge": 13,
+    "railTunnel": 9,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-ges",
+   "country": "FR",
+   "name": {
+    "en": "Grand Est",
+    "uk": "Гранд-Ест",
+    "de": "Grand Est"
+   },
+   "file": "regions/fr-ges.json",
+   "places": 111,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 22,
+    "footBridge": 30,
+    "railBridge": 15,
+    "railTunnel": 39,
+    "roadTunnel": 4
+   },
+   "osm": "2026-10-02",
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "fr-hdf",
+   "country": "FR",
+   "name": {
+    "en": "Hauts-de-France",
+    "uk": "О-де-Франс",
+    "de": "Hauts-de-France"
+   },
+   "file": "regions/fr-hdf.json",
+   "places": 54,
+   "kinds": {
+    "carBridge": 15,
+    "footBridge": 22,
+    "metroLine": 2,
+    "railBridge": 4,
+    "railTunnel": 9,
+    "roadTunnel": 2
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-idf",
+   "country": "FR",
+   "name": {
+    "en": "Île-de-France",
+    "uk": "Іль-де-Франс",
+    "de": "Île-de-France"
+   },
+   "file": "regions/fr-idf.json",
+   "places": 263,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 67,
+    "footBridge": 80,
+    "metroLine": 16,
+    "railBridge": 15,
+    "railTunnel": 42,
+    "roadTunnel": 41
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-naq",
+   "country": "FR",
+   "name": {
+    "en": "Nouvelle-Aquitaine",
+    "uk": "Нова Аквітанія",
+    "de": "Nouvelle-Aquitaine"
+   },
+   "file": "regions/fr-naq.json",
+   "places": 141,
+   "kinds": {
+    "carBridge": 46,
+    "footBridge": 39,
+    "railBridge": 9,
+    "railTunnel": 41,
+    "roadTunnel": 6
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-nor",
+   "country": "FR",
+   "name": {
+    "en": "Normandy",
+    "uk": "Нормандія",
+    "de": "Normandie"
+   },
+   "file": "regions/fr-nor.json",
+   "places": 76,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 31,
+    "footBridge": 13,
+    "railBridge": 2,
+    "railTunnel": 23,
+    "roadTunnel": 6
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-occ",
+   "country": "FR",
+   "name": {
+    "en": "Occitanie",
+    "uk": "Окситанія",
+    "de": "Okzitanien"
+   },
+   "file": "regions/fr-occ.json",
+   "places": 219,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 39,
+    "footBridge": 50,
+    "metroLine": 2,
+    "railBridge": 15,
+    "railTunnel": 99,
+    "roadTunnel": 13
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-pac",
+   "country": "FR",
+   "name": {
+    "en": "Provence-Alpes-Côte d'Azur",
+    "uk": "Прованс — Альпи — Лазурний Берег",
+    "de": "Provence-Alpes-Côte d'Azur"
+   },
+   "file": "regions/fr-pac.json",
+   "places": 213,
+   "kinds": {
+    "carBridge": 31,
+    "footBridge": 18,
+    "metroLine": 2,
+    "railBridge": 9,
+    "railTunnel": 81,
+    "roadTunnel": 72
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "fr-pdl",
+   "country": "FR",
+   "name": {
+    "en": "Pays de la Loire",
+    "uk": "Країна Луари",
+    "de": "Pays de la Loire"
+   },
+   "file": "regions/fr-pdl.json",
+   "places": 62,
+   "kinds": {
+    "carBridge": 33,
+    "footBridge": 21,
+    "railBridge": 4,
+    "railTunnel": 3,
+    "roadTunnel": 1
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "gb-eng",
+   "country": "GB",
+   "name": {
+    "en": "England",
+    "uk": "Англія",
+    "de": "England"
+   },
+   "file": "regions/gb-eng.json",
+   "places": 841,
+   "kinds": {
+    "bikeTunnel": 11,
+    "carBridge": 179,
+    "footBridge": 170,
+    "metroLine": 10,
+    "railBridge": 163,
+    "railTunnel": 280,
+    "roadTunnel": 28
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "gb-nir",
+   "country": "GB",
+   "name": {
+    "en": "Northern Ireland",
+    "uk": "Північна Ірландія",
+    "de": "Nordirland"
+   },
+   "file": "regions/gb-nir.json",
+   "places": 22,
+   "kinds": {
+    "carBridge": 4,
+    "footBridge": 10,
+    "railBridge": 5,
+    "railTunnel": 3
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "gb-sct",
+   "country": "GB",
+   "name": {
+    "en": "Scotland",
+    "uk": "Шотландія",
+    "de": "Schottland"
+   },
+   "file": "regions/gb-sct.json",
+   "places": 192,
+   "kinds": {
+    "bikeTunnel": 7,
+    "carBridge": 53,
+    "footBridge": 44,
+    "metroLine": 1,
+    "railBridge": 51,
+    "railTunnel": 35,
+    "roadTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "gb-wls",
+   "country": "GB",
+   "name": {
+    "en": "Wales",
+    "uk": "Уельс",
+    "de": "Wales"
+   },
+   "file": "regions/gb-wls.json",
+   "places": 95,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 23,
+    "footBridge": 27,
+    "railBridge": 15,
+    "railTunnel": 23,
+    "roadTunnel": 6
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "gi",
+   "country": "GI",
+   "name": {
+    "en": "Gibraltar",
+    "uk": "Гібралтар",
+    "de": "Gibraltar"
+   },
+   "file": "regions/gi.json",
+   "places": 4,
+   "kinds": {
+    "bikeTunnel": 1,
+    "roadTunnel": 3
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "gr",
+   "country": "GR",
+   "name": {
+    "en": "Greece",
+    "uk": "Греція",
+    "de": "Griechenland"
+   },
+   "file": "regions/gr.json",
+   "places": 206,
+   "kinds": {
+    "carBridge": 17,
+    "footBridge": 14,
+    "metroLine": 5,
+    "railBridge": 6,
+    "railTunnel": 31,
+    "roadTunnel": 133
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "hr",
+   "country": "HR",
+   "name": {
+    "en": "Croatia",
+    "uk": "Хорватія",
+    "de": "Kroatien"
+   },
+   "file": "regions/hr.json",
+   "places": 183,
+   "kinds": {
+    "carBridge": 62,
+    "footBridge": 8,
+    "railBridge": 6,
+    "railTunnel": 27,
+    "roadTunnel": 80
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "hu",
+   "country": "HU",
+   "name": {
+    "en": "Hungary",
+    "uk": "Угорщина",
+    "de": "Ungarn"
+   },
+   "file": "regions/hu.json",
+   "places": 112,
+   "kinds": {
+    "carBridge": 65,
+    "footBridge": 22,
+    "metroLine": 4,
+    "railBridge": 9,
+    "railTunnel": 7,
+    "roadTunnel": 5
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "ie",
+   "country": "IE",
+   "name": {
+    "en": "Ireland",
+    "uk": "Ірландія",
+    "de": "Irland"
+   },
+   "file": "regions/ie.json",
+   "places": 81,
+   "kinds": {
+    "carBridge": 39,
+    "footBridge": 28,
+    "railBridge": 6,
+    "railTunnel": 5,
+    "roadTunnel": 3
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "im",
+   "country": "IM",
+   "name": {
+    "en": "Isle of Man",
+    "uk": "Острів Мен",
+    "de": "Isle of Man"
+   },
+   "file": "regions/im.json",
+   "places": 1,
+   "kinds": {
+    "footBridge": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "is",
+   "country": "IS",
+   "name": {
+    "en": "Iceland",
+    "uk": "Ісландія",
+    "de": "Island"
+   },
+   "file": "regions/is.json",
+   "places": 17,
+   "kinds": {
+    "carBridge": 4,
+    "footBridge": 1,
+    "roadTunnel": 12
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "it-21",
+   "country": "IT",
+   "name": {
+    "en": "Piedmont",
+    "uk": "П'ємонт",
+    "de": "Piemont"
+   },
+   "file": "regions/it-21.json",
+   "places": 218,
+   "kinds": {
+    "carBridge": 49,
+    "footBridge": 10,
+    "railBridge": 1,
+    "railTunnel": 63,
+    "roadTunnel": 95
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-23",
+   "country": "IT",
+   "name": {
+    "en": "Aosta Valley",
+    "uk": "Валле-д'Аоста",
+    "de": "Aostatal"
+   },
+   "file": "regions/it-23.json",
+   "places": 50,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 1,
+    "railTunnel": 3,
+    "roadTunnel": 45
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-25",
+   "country": "IT",
+   "name": {
+    "en": "Lombardy",
+    "uk": "Ломбардія",
+    "de": "Lombardei"
+   },
+   "file": "regions/it-25.json",
+   "places": 340,
+   "kinds": {
+    "bikeTunnel": 4,
+    "carBridge": 53,
+    "footBridge": 39,
+    "metroLine": 6,
+    "railBridge": 3,
+    "railTunnel": 55,
+    "roadTunnel": 180
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-32",
+   "country": "IT",
+   "name": {
+    "en": "Trentino-South Tyrol",
+    "uk": "Трентіно — Південний Тіроль",
+    "de": "Trentino-Südtirol"
+   },
+   "file": "regions/it-32.json",
+   "places": 128,
+   "kinds": {
+    "carBridge": 7,
+    "footBridge": 8,
+    "railBridge": 2,
+    "railTunnel": 15,
+    "roadTunnel": 96
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-34",
+   "country": "IT",
+   "name": {
+    "en": "Veneto",
+    "uk": "Венето",
+    "de": "Venetien"
+   },
+   "file": "regions/it-34.json",
+   "places": 150,
+   "kinds": {
+    "carBridge": 29,
+    "footBridge": 28,
+    "railBridge": 1,
+    "railTunnel": 23,
+    "roadTunnel": 69
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-36",
+   "country": "IT",
+   "name": {
+    "en": "Friuli Venezia Giulia",
+    "uk": "Фріулі — Венеція-Джулія",
+    "de": "Friaul-Julisch Venetien"
+   },
+   "file": "regions/it-36.json",
+   "places": 116,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 31,
+    "footBridge": 9,
+    "railBridge": 5,
+    "railTunnel": 20,
+    "roadTunnel": 50
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-42",
+   "country": "IT",
+   "name": {
+    "en": "Liguria",
+    "uk": "Лігурія",
+    "de": "Ligurien"
+   },
+   "file": "regions/it-42.json",
+   "places": 500,
+   "kinds": {
+    "bikeTunnel": 7,
+    "carBridge": 78,
+    "footBridge": 16,
+    "metroLine": 1,
+    "railBridge": 5,
+    "railTunnel": 109,
+    "roadTunnel": 284
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-45",
+   "country": "IT",
+   "name": {
+    "en": "Emilia-Romagna",
+    "uk": "Емілія-Романья",
+    "de": "Emilia-Romagna"
+   },
+   "file": "regions/it-45.json",
+   "places": 130,
+   "kinds": {
+    "carBridge": 30,
+    "footBridge": 20,
+    "railBridge": 5,
+    "railTunnel": 32,
+    "roadTunnel": 43
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-52",
+   "country": "IT",
+   "name": {
+    "en": "Tuscany",
+    "uk": "Тоскана",
+    "de": "Toskana"
+   },
+   "file": "regions/it-52.json",
+   "places": 207,
+   "kinds": {
+    "carBridge": 37,
+    "footBridge": 16,
+    "railBridge": 2,
+    "railTunnel": 81,
+    "roadTunnel": 71
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-55",
+   "country": "IT",
+   "name": {
+    "en": "Umbria",
+    "uk": "Умбрія",
+    "de": "Umbrien"
+   },
+   "file": "regions/it-55.json",
+   "places": 68,
+   "kinds": {
+    "carBridge": 6,
+    "footBridge": 4,
+    "railTunnel": 18,
+    "roadTunnel": 40
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-57",
+   "country": "IT",
+   "name": {
+    "en": "Marche",
+    "uk": "Марке",
+    "de": "Marken"
+   },
+   "file": "regions/it-57.json",
+   "places": 106,
+   "kinds": {
+    "carBridge": 22,
+    "footBridge": 2,
+    "railTunnel": 9,
+    "roadTunnel": 73
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-62",
+   "country": "IT",
+   "name": {
+    "en": "Lazio",
+    "uk": "Лаціо",
+    "de": "Latium"
+   },
+   "file": "regions/it-62.json",
+   "places": 199,
+   "kinds": {
+    "carBridge": 67,
+    "footBridge": 16,
+    "metroLine": 3,
+    "railBridge": 1,
+    "railTunnel": 57,
+    "roadTunnel": 55
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-65",
+   "country": "IT",
+   "name": {
+    "en": "Abruzzo",
+    "uk": "Абруццо",
+    "de": "Abruzzen"
+   },
+   "file": "regions/it-65.json",
+   "places": 205,
+   "kinds": {
+    "bikeTunnel": 5,
+    "carBridge": 64,
+    "footBridge": 7,
+    "railTunnel": 49,
+    "roadTunnel": 80
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-67",
+   "country": "IT",
+   "name": {
+    "en": "Molise",
+    "uk": "Молізе",
+    "de": "Molise"
+   },
+   "file": "regions/it-67.json",
+   "places": 68,
+   "kinds": {
+    "carBridge": 18,
+    "railTunnel": 14,
+    "roadTunnel": 36
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-72",
+   "country": "IT",
+   "name": {
+    "en": "Campania",
+    "uk": "Кампанія",
+    "de": "Kampanien"
+   },
+   "file": "regions/it-72.json",
+   "places": 229,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 34,
+    "footBridge": 5,
+    "metroLine": 3,
+    "railBridge": 1,
+    "railTunnel": 89,
+    "roadTunnel": 96
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-75",
+   "country": "IT",
+   "name": {
+    "en": "Apulia",
+    "uk": "Апулія",
+    "de": "Apulien"
+   },
+   "file": "regions/it-75.json",
+   "places": 41,
+   "kinds": {
+    "carBridge": 8,
+    "footBridge": 5,
+    "railBridge": 1,
+    "railTunnel": 13,
+    "roadTunnel": 14
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-77",
+   "country": "IT",
+   "name": {
+    "en": "Basilicata",
+    "uk": "Базиліката",
+    "de": "Basilikata"
+   },
+   "file": "regions/it-77.json",
+   "places": 113,
+   "kinds": {
+    "carBridge": 23,
+    "footBridge": 4,
+    "railTunnel": 27,
+    "roadTunnel": 59
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-78",
+   "country": "IT",
+   "name": {
+    "en": "Calabria",
+    "uk": "Калабрія",
+    "de": "Kalabrien"
+   },
+   "file": "regions/it-78.json",
+   "places": 224,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 36,
+    "footBridge": 2,
+    "railTunnel": 50,
+    "roadTunnel": 135
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-82",
+   "country": "IT",
+   "name": {
+    "en": "Sicily",
+    "uk": "Сицилія",
+    "de": "Sizilien"
+   },
+   "file": "regions/it-82.json",
+   "places": 497,
+   "kinds": {
+    "carBridge": 243,
+    "footBridge": 1,
+    "metroLine": 1,
+    "railBridge": 4,
+    "railTunnel": 84,
+    "roadTunnel": 164
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "it-88",
+   "country": "IT",
+   "name": {
+    "en": "Sardinia",
+    "uk": "Сардинія",
+    "de": "Sardinien"
+   },
+   "file": "regions/it-88.json",
+   "places": 95,
+   "kinds": {
+    "carBridge": 31,
+    "footBridge": 3,
+    "railTunnel": 9,
+    "roadTunnel": 52
+   },
+   "osm": null,
+   "generated": "2026-10-03"
+  },
+  {
+   "id": "li",
+   "country": "LI",
+   "name": {
+    "en": "Liechtenstein",
+    "uk": "Ліхтенштейн",
+    "de": "Liechtenstein"
+   },
+   "file": "regions/li.json",
+   "places": 3,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 1,
+    "roadTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "lt",
+   "country": "LT",
+   "name": {
+    "en": "Lithuania",
+    "uk": "Литва",
+    "de": "Litauen"
+   },
+   "file": "regions/lt.json",
+   "places": 49,
+   "kinds": {
+    "carBridge": 35,
+    "footBridge": 9,
+    "railBridge": 5
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "lu",
+   "country": "LU",
+   "name": {
+    "en": "Luxembourg",
+    "uk": "Люксембург",
+    "de": "Luxemburg"
+   },
+   "file": "regions/lu.json",
+   "places": 56,
+   "kinds": {
+    "carBridge": 18,
+    "footBridge": 9,
+    "railBridge": 2,
+    "railTunnel": 13,
+    "roadTunnel": 14
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "lv",
+   "country": "LV",
+   "name": {
+    "en": "Latvia",
+    "uk": "Латвія",
+    "de": "Lettland"
+   },
+   "file": "regions/lv.json",
+   "places": 30,
+   "kinds": {
+    "carBridge": 14,
+    "footBridge": 13,
+    "railBridge": 3
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "mc",
+   "country": "MC",
+   "name": {
+    "en": "Monaco",
+    "uk": "Монако",
+    "de": "Monaco"
+   },
+   "file": "regions/mc.json",
+   "places": 5,
+   "kinds": {
+    "railTunnel": 1,
+    "roadTunnel": 4
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "md",
+   "country": "MD",
+   "name": {
+    "en": "Moldova",
+    "uk": "Молдова",
+    "de": "Moldau"
+   },
+   "file": "regions/md.json",
+   "places": 10,
+   "kinds": {
+    "carBridge": 5,
+    "footBridge": 2,
+    "railBridge": 2,
+    "railTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "me",
+   "country": "ME",
+   "name": {
+    "en": "Montenegro",
+    "uk": "Чорногорія",
+    "de": "Montenegro"
+   },
+   "file": "regions/me.json",
+   "places": 127,
+   "kinds": {
+    "carBridge": 11,
+    "footBridge": 3,
+    "railBridge": 3,
+    "railTunnel": 64,
+    "roadTunnel": 46
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "mk",
+   "country": "MK",
+   "name": {
+    "en": "North Macedonia",
+    "uk": "Північна Македонія",
+    "de": "Nordmazedonien"
+   },
+   "file": "regions/mk.json",
+   "places": 16,
+   "kinds": {
+    "carBridge": 1,
+    "footBridge": 4,
+    "railTunnel": 6,
+    "roadTunnel": 5
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "mt",
+   "country": "MT",
+   "name": {
+    "en": "Malta",
+    "uk": "Мальта",
+    "de": "Malta"
+   },
+   "file": "regions/mt.json",
+   "places": 4,
+   "kinds": {
+    "carBridge": 2,
+    "roadTunnel": 2
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "nl",
+   "country": "NL",
+   "name": {
+    "en": "Netherlands",
+    "uk": "Нідерланди",
+    "de": "Niederlande"
+   },
+   "file": "regions/nl.json",
+   "places": 491,
+   "kinds": {
+    "bikeTunnel": 33,
+    "carBridge": 127,
+    "footBridge": 218,
+    "metroLine": 10,
+    "railBridge": 34,
+    "railTunnel": 21,
+    "roadTunnel": 48
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "no-03",
+   "country": "NO",
+   "name": {
+    "en": "Oslo",
+    "uk": "Осло",
+    "de": "Oslo"
+   },
+   "file": "regions/no-03.json",
+   "places": 22,
+   "kinds": {
+    "footBridge": 2,
+    "metroLine": 5,
+    "railTunnel": 4,
+    "roadTunnel": 11
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-11",
+   "country": "NO",
+   "name": {
+    "en": "Rogaland",
+    "uk": "Ругаланн",
+    "de": "Rogaland"
+   },
+   "file": "regions/no-11.json",
+   "places": 121,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 12,
+    "footBridge": 4,
+    "railTunnel": 14,
+    "roadTunnel": 90
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-15",
+   "country": "NO",
+   "name": {
+    "en": "Møre og Romsdal",
+    "uk": "Мере-ог-Ромсдал",
+    "de": "Møre og Romsdal"
+   },
+   "file": "regions/no-15.json",
+   "places": 123,
+   "kinds": {
+    "bikeTunnel": 3,
+    "carBridge": 33,
+    "footBridge": 5,
+    "railTunnel": 2,
+    "roadTunnel": 80
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-18",
+   "country": "NO",
+   "name": {
+    "en": "Nordland",
+    "uk": "Нурланн",
+    "de": "Nordland"
+   },
+   "file": "regions/no-18.json",
+   "places": 202,
+   "kinds": {
+    "bikeTunnel": 4,
+    "carBridge": 44,
+    "footBridge": 2,
+    "railTunnel": 43,
+    "roadTunnel": 109
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-31",
+   "country": "NO",
+   "name": {
+    "en": "Østfold",
+    "uk": "Естфолл",
+    "de": "Østfold"
+   },
+   "file": "regions/no-31.json",
+   "places": 23,
+   "kinds": {
+    "carBridge": 11,
+    "footBridge": 4,
+    "railTunnel": 1,
+    "roadTunnel": 7
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-32",
+   "country": "NO",
+   "name": {
+    "en": "Akershus",
+    "uk": "Акерсгус",
+    "de": "Akershus"
+   },
+   "file": "regions/no-32.json",
+   "places": 72,
+   "kinds": {
+    "carBridge": 10,
+    "footBridge": 5,
+    "railBridge": 2,
+    "railTunnel": 19,
+    "roadTunnel": 36
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-33",
+   "country": "NO",
+   "name": {
+    "en": "Buskerud",
+    "uk": "Бускеру",
+    "de": "Buskerud"
+   },
+   "file": "regions/no-33.json",
+   "places": 57,
+   "kinds": {
+    "carBridge": 16,
+    "footBridge": 6,
+    "railBridge": 1,
+    "railTunnel": 18,
+    "roadTunnel": 16
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-34",
+   "country": "NO",
+   "name": {
+    "en": "Innlandet",
+    "uk": "Іннланнет",
+    "de": "Innlandet"
+   },
+   "file": "regions/no-34.json",
+   "places": 38,
+   "kinds": {
+    "carBridge": 10,
+    "footBridge": 7,
+    "railTunnel": 1,
+    "roadTunnel": 20
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-39",
+   "country": "NO",
+   "name": {
+    "en": "Vestfold",
+    "uk": "Вестфолл",
+    "de": "Vestfold"
+   },
+   "file": "regions/no-39.json",
+   "places": 44,
+   "kinds": {
+    "carBridge": 10,
+    "footBridge": 2,
+    "railBridge": 2,
+    "railTunnel": 5,
+    "roadTunnel": 25
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-40",
+   "country": "NO",
+   "name": {
+    "en": "Telemark",
+    "uk": "Телемарк",
+    "de": "Telemark"
+   },
+   "file": "regions/no-40.json",
+   "places": 56,
+   "kinds": {
+    "carBridge": 13,
+    "footBridge": 2,
+    "railTunnel": 18,
+    "roadTunnel": 23
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-42",
+   "country": "NO",
+   "name": {
+    "en": "Agder",
+    "uk": "Агдер",
+    "de": "Agder"
+   },
+   "file": "regions/no-42.json",
+   "places": 121,
+   "kinds": {
+    "carBridge": 9,
+    "footBridge": 4,
+    "railTunnel": 44,
+    "roadTunnel": 64
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-46",
+   "country": "NO",
+   "name": {
+    "en": "Vestland",
+    "uk": "Вестланн",
+    "de": "Vestland"
+   },
+   "file": "regions/no-46.json",
+   "places": 439,
+   "kinds": {
+    "bikeTunnel": 7,
+    "carBridge": 35,
+    "footBridge": 6,
+    "railTunnel": 63,
+    "roadTunnel": 328
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-50",
+   "country": "NO",
+   "name": {
+    "en": "Trøndelag",
+    "uk": "Тренделаг",
+    "de": "Trøndelag"
+   },
+   "file": "regions/no-50.json",
+   "places": 114,
+   "kinds": {
+    "carBridge": 32,
+    "footBridge": 4,
+    "railBridge": 1,
+    "railTunnel": 20,
+    "roadTunnel": 57
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-55",
+   "country": "NO",
+   "name": {
+    "en": "Troms",
+    "uk": "Трумс",
+    "de": "Troms"
+   },
+   "file": "regions/no-55.json",
+   "places": 60,
+   "kinds": {
+    "carBridge": 14,
+    "footBridge": 1,
+    "roadTunnel": 45
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "no-56",
+   "country": "NO",
+   "name": {
+    "en": "Finnmark",
+    "uk": "Фіннмарк",
+    "de": "Finnmark"
+   },
+   "file": "regions/no-56.json",
+   "places": 27,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 6,
+    "railTunnel": 1,
+    "roadTunnel": 19
+   },
+   "osm": null,
+   "generated": "2026-11-02"
+  },
+  {
+   "id": "pl",
+   "country": "PL",
+   "name": {
+    "en": "Poland",
+    "uk": "Польща",
+    "de": "Polen"
+   },
+   "file": "regions/pl.json",
+   "places": 229,
+   "kinds": {
+    "carBridge": 124,
+    "footBridge": 53,
+    "metroLine": 2,
+    "railBridge": 22,
+    "railTunnel": 14,
+    "roadTunnel": 14
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "pt",
+   "country": "PT",
+   "name": {
+    "en": "Portugal",
+    "uk": "Португалія",
+    "de": "Portugal"
+   },
+   "file": "regions/pt.json",
+   "places": 359,
+   "kinds": {
+    "carBridge": 84,
+    "footBridge": 57,
+    "metroLine": 4,
+    "railBridge": 44,
+    "railTunnel": 39,
+    "roadTunnel": 131
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "ro",
+   "country": "RO",
+   "name": {
+    "en": "Romania",
+    "uk": "Румунія",
+    "de": "Rumänien"
+   },
+   "file": "regions/ro.json",
+   "places": 128,
+   "kinds": {
+    "carBridge": 43,
+    "footBridge": 31,
+    "metroLine": 5,
+    "railBridge": 4,
+    "railTunnel": 34,
+    "roadTunnel": 11
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "rs",
+   "country": "RS",
+   "name": {
+    "en": "Serbia",
+    "uk": "Сербія",
+    "de": "Serbien"
+   },
+   "file": "regions/rs.json",
+   "places": 177,
+   "kinds": {
+    "carBridge": 24,
+    "footBridge": 8,
+    "railBridge": 3,
+    "railTunnel": 106,
+    "roadTunnel": 36
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "se",
+   "country": "SE",
+   "name": {
+    "en": "Sweden",
+    "uk": "Швеція",
+    "de": "Schweden"
+   },
+   "file": "regions/se.json",
+   "places": 298,
+   "kinds": {
+    "bikeTunnel": 1,
+    "carBridge": 112,
+    "footBridge": 65,
+    "metroLine": 7,
+    "railBridge": 10,
+    "railTunnel": 65,
+    "roadTunnel": 38
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "si",
+   "country": "SI",
+   "name": {
+    "en": "Slovenia",
+    "uk": "Словенія",
+    "de": "Slowenien"
+   },
+   "file": "regions/si.json",
+   "places": 134,
+   "kinds": {
+    "bikeTunnel": 2,
+    "carBridge": 45,
+    "footBridge": 13,
+    "railBridge": 6,
+    "railTunnel": 31,
+    "roadTunnel": 37
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "sk",
+   "country": "SK",
+   "name": {
+    "en": "Slovakia",
+    "uk": "Словаччина",
+    "de": "Slowakei"
+   },
+   "file": "regions/sk.json",
+   "places": 121,
+   "kinds": {
+    "carBridge": 32,
+    "footBridge": 14,
+    "railBridge": 9,
+    "railTunnel": 51,
+    "roadTunnel": 15
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "sm",
+   "country": "SM",
+   "name": {
+    "en": "San Marino",
+    "uk": "Сан-Марино",
+    "de": "San Marino"
+   },
+   "file": "regions/sm.json",
+   "places": 2,
+   "kinds": {
+    "bikeTunnel": 1,
+    "railTunnel": 1
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "tr-eu",
+   "country": "TR",
+   "name": {
+    "en": "Istanbul and Thrace",
+    "uk": "Стамбул і Фракія",
+    "de": "Istanbul und Thrakien"
+   },
+   "file": "regions/tr-eu.json",
+   "places": 56,
+   "kinds": {
+    "carBridge": 15,
+    "footBridge": 10,
+    "metroLine": 8,
+    "railTunnel": 10,
+    "roadTunnel": 13
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  },
+  {
+   "id": "ua",
+   "country": "UA",
+   "name": {
+    "en": "Ukraine",
+    "uk": "Україна",
+    "de": "Ukraine"
+   },
+   "file": "regions/ua.json",
+   "places": 123,
+   "kinds": {
+    "carBridge": 43,
+    "footBridge": 47,
+    "metroLine": 6,
+    "railBridge": 6,
+    "railTunnel": 19,
+    "roadTunnel": 2
+   },
+   "osm": "2026-10-03",
+   "generated": "2026-10-04"
+  },
+  {
+   "id": "xk",
+   "country": "XK",
+   "name": {
+    "en": "Kosovo",
+    "uk": "Косово",
+    "de": "Kosovo"
+   },
+   "file": "regions/xk.json",
+   "places": 9,
+   "kinds": {
+    "footBridge": 3,
+    "railTunnel": 4,
+    "roadTunnel": 2
+   },
+   "osm": "2026-11-02",
+   "generated": "2026-11-04"
+  }
+ ]
+}
